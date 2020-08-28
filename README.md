@@ -1,4 +1,4 @@
-# platzi-exchange
+# Coin-exchange
 
 ## Project setup
 ```
