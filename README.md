@@ -1,5 +1,5 @@
 # Coin-exchange
-
+Visit [Website](https://coin-to-usd.netlify.app/).
 ## Project setup
 ```
 npm install
